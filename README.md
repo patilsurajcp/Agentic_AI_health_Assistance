@@ -33,6 +33,10 @@
 <h1>MODEL USED <h1>
 <pr><img src="Screenshot 2025-07-31 231646.png" /></pr>
 
+<pr><h1>Deployment Stage<h1>
+<img src="deployment.png">
+</pr>
+
 
 <pr><h1><br>Results<br><h1>
 <img src="result1.png">
